@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.vcxproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.vcxproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.exe
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.adminform.resources
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.driverform.resources
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.choices_form.resources
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.signin_form.resources
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.MyForm.resources
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.MyForm1 .resources
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.signin_form_customer.resources
+C:\Users\Dell\OneDrive\Desktop\projecttremopo\x64\Debug\projecttremopo.signin_form_driver.resources

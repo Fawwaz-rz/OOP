@@ -1,0 +1,17 @@
+﻿  driver1.cpp
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(146,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(172,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(199,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(214,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(296,26): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(307,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(422,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\driver1.cpp(434,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  implementation1.cpp
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\implementation1.cpp(69,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\implementation1.cpp(373,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\implementation1.cpp(919,58): warning C4101: 'licenscetype': unreferenced local variable
+C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\implementation1.cpp(919,46): warning C4101: 'fueltype': unreferenced local variable
+  Generating Code...
+  projecttemporary.vcxproj -> C:\Users\Dell\OneDrive\Desktop\fawwaz folder\2nd semester\TMS\projecttemporary\x64\Debug\projecttemporary.exe

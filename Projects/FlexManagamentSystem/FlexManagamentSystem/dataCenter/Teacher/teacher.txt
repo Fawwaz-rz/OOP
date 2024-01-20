@@ -1,0 +1,6 @@
+5
+CS-0001	Object-Oriented-Programing
+EE-0001 Digital-logic-design
+HOD-CS	Linear-Algebra
+CS-0002 Calculas
+SC-0001	Communication-and-Presentation-skills

@@ -1,0 +1,8 @@
+22F-0001
+CS-0002 Calculas	CS-0001	Object-Oriented-Programing	EE-0001 Digital-logic-design
+22F-0002
+CS-0001 Object-Oriented-Programing	EE-0001 Digital-logic-design	HOD-CS	Linear-Algebra
+22F-0003
+CS-0001 Object-Oriented-Programing
+22F-0004
+CS-0002 Calculas	HOD-CS Linear-Algebra	SC-0001 Communication-and-Presentation-skills

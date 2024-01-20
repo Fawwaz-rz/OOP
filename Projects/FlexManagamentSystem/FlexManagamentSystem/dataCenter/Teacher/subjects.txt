@@ -1,0 +1,8 @@
+7
+Digital-logic-design
+Programming-Fundamentals
+Object-Oriented-Programing
+Calculas
+Linear-Algebra
+Physics
+Communication-and-Presentation-skills
